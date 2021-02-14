@@ -1,3 +1,5 @@
+set GOPROXY=proxy.golang.org&go list -m github.com/jekaspekas/jose@1.1.0
+
 JOSE
 ============
 [![Build Status](https://travis-ci.org/jekaspekas/jose.svg?branch=master)](https://travis-ci.org/jekaspekas/jose)
